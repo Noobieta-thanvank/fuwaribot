@@ -1,0 +1,2 @@
+# fuwaribot
+just test
