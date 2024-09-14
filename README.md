@@ -1,2 +1,2 @@
 # fuwaribot
-just test
+ Test 😁 Static Site kk
